@@ -1,7 +1,3 @@
-Here’s a professional and polished `README.md` for your GitHub repository:
-
----
-
 # Gridblock
 
 **Idea by:** Sakshi Amrutkar  
@@ -91,7 +87,3 @@ For detailed licensing information, please refer to the **LICENSE** file include
 
 Enjoy playing Gridblock! 🎉  
 Let your strategy outsmart your opponent and secure victory!
-
----
-
-Let me know if you want any changes or additional details! 😊
