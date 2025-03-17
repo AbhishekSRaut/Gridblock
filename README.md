@@ -21,8 +21,8 @@ Simply ignore the warning and enjoy the game. We are working on verifying the ap
 
 ## 🎯 How to Download the Game
 The game executable is available in the **Releases** section of this repository.  
-1. Go to the [Releases](https://github.com/YourUsername/YourRepo/releases) section.  
-2. Download the latest version of **Gridblock.exe**.  
+1. Go to the [Releases](https://github.com/AbhishekSRaut/Gridblock/releases) section.  
+2. Download the latest version of **Gridblock.zip**.  
 3. Run the downloaded file to start playing!  
 
 ---
